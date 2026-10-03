@@ -1,0 +1,20 @@
+﻿### CUSTOM ###
+application-local.yml
+tmp/
+demos/
+sql/
+
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+.idea/
+*.iml
+.vscode/
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
